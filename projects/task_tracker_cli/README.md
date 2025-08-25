@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-https://roadmap.sh/projects/task-tracker
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 
 A simple command-line task management application built with Python that demonstrates the CRUD mindset (Create, Read, Update, Delete) and a clean, layered backend architecture.
 
