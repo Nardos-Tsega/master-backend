@@ -22,5 +22,3 @@ This project is intentionally minimal - using only a JSON file for persistence -
    ```bash
    python main.py --help
    ```
-
-📖 Learn more about this project type: [Task Tracker Project](https://roadmap.sh/projects/task-tracker)
